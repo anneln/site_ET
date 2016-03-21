@@ -4,11 +4,11 @@
   border-radius: 5px;
   font-weight: bold;
   border-color: white;
-  border: 2px, solid;
+  border: 2px solid;
   transition: background 0.4s ease;
 }
 .btn-treehouse:hover {
-  opacity: 1;
+  opacity: O.4;
   background: #3ac162;
   text-decoration: none;
   color: white;

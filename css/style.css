@@ -5,8 +5,7 @@
 @import url("components/button.css");
 
 /* Eléments principaux de la page */
-#bloc_page
-{
+#bloc_page {
   box-sizing: border-box;
   margin: auto;
   font-family: 'Helvetica', 'Arial', 'sans-serif';
@@ -16,12 +15,7 @@
   line-height: 1.4;
 }
 
-a
-{
+a {
   font-family: 'Helvetica', 'Arial', 'sans-serif';
   text-decoration: none
-}
-
-a:hover {
-  color:black;
 }
