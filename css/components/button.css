@@ -8,7 +8,7 @@
   transition: background 0.4s ease;
 }
 .btn-treehouse:hover {
-  opacity: O.4;
+  opacity: 1;
   background: #3ac162;
   text-decoration: none;
   color: white;
