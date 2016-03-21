@@ -1,0 +1,29 @@
+/* --- Import Components stylesheets --- */
+@import url("components/navbar.css");
+@import url("components/banner.css");
+@import url("components/footer.css");
+
+/* Eléments principaux de la page */
+
+
+#bloc_page
+{
+  box-sizing: border-box;
+  margin: auto;
+  font-family: 'Helvetica', 'Arial', 'sans-serif';
+  color: #181818;
+  font-size: 17px;
+  font-weight: lighter;
+  line-height: 1.4;
+}
+
+a
+{
+  font-family: 'Helvetica', 'Arial', 'sans-serif';
+  text-decoration: none
+}
+
+a:hover {
+  color:black;
+}
+
