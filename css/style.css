@@ -2,10 +2,9 @@
 @import url("components/navbar.css");
 @import url("components/banner.css");
 @import url("components/footer.css");
+@import url("components/button.css");
 
 /* Eléments principaux de la page */
-
-
 #bloc_page
 {
   box-sizing: border-box;
@@ -26,4 +25,3 @@ a
 a:hover {
   color:black;
 }
-
